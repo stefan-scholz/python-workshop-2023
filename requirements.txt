@@ -11,7 +11,8 @@ jusText
 readabilipy
 spacy
 nltk
-fasttext
+fasttext-wheel
 transformers
 tensorflow
 transformers[sentencepiece]
+jupyter

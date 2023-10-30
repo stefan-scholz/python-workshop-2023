@@ -8,11 +8,11 @@ class Sentiment:
                              % Sentiment.values)
         self.value = value
 
-    def get(self):
-        return self.happy_or_not
-
     def __repr__(self):
         return self.value
+
+    def get(self):
+        return self.happy_or_not
 
     @staticmethod
     def guess(text):
