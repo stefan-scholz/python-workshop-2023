@@ -1,6 +1,0 @@
-spacy
-nltk
-fasttext
-transformers
-tensorflow
-transformers[sentencepiece]

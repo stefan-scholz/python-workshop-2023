@@ -1,5 +1,0 @@
-matplotlib
-pandas
-stop-words
-twarc
-wordcloud
