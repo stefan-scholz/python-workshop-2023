@@ -10,9 +10,11 @@ beautifulsoup4
 jusText
 readabilipy
 spacy
+scikit-learn
 nltk
 fasttext-wheel
 transformers
 tensorflow
 transformers[sentencepiece]
 jupyter
+newsapi-python

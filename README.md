@@ -71,9 +71,9 @@ via your web browser.
 
 ### Thursday, November 2, 2023:
 
-1. Python basics and programming fundamentals ([notebook](1_warmup_and_setup.ipynb))
-2. Working with structured data ([notebook](2_structured_data_tree_cadastre_konstanz.ipynb))
-3. Using application programming interfaces ([notebook](3_twitter_api.ipynb))
+1. Python basics and programming fundamentals ([notebook](1_basics.ipynb))
+2. Working with structured data ([notebook](2_structured_data.ipynb))
+3. Using application programming interfaces ([notebook](3_news_api.ipynb))
 
 ### Friday, November 3, 2023:
 
